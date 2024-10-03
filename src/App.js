@@ -39,7 +39,7 @@ function App() {
     </nav>
 <div className ="main">
   <Routes>
-
+    
     {
 
       routes.map((route,i) => {
