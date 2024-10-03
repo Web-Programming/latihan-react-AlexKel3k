@@ -8,6 +8,10 @@ function App() {
    <React.Suspense fallback={<div>Loading . . .</div>}>
     <div className ="App">
     <h1>Universitas MDP</h1>
+
+
+
+    
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
    <li> 
